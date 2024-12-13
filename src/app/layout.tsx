@@ -10,8 +10,8 @@ import { ThemeProvider } from "next-themes";
 
 export const metadata: Metadata = {
   title: {
-    template: "%s - AI Resume Builder",
-    absolute: "AI Resume Builders",
+    template: "%s - AI ResumePro",
+    absolute: "AI ResumePro",
   },
   description: "Easiest way to craft your professional resume",
 };
